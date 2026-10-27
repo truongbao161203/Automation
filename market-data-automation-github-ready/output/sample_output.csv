@@ -1,0 +1,5 @@
+date,project,unit_type,area_sqm,asking_price_vnd,source,validation_error,price_per_sqm_vnd
+2026-10-01,Project Alpha,2BR,75.0,7500000000,Public Listing A,,100000000.0
+2026-10-01,Project Alpha,3BR,105.0,10200000000,Public Listing B,,97142857.0
+2026-10-01,Project Beta,1BR,52.0,4800000000,Public Listing C,,92307692.0
+2026-10-01,Project Gamma,3BR,110.0,9900000000,Public Listing F,,90000000.0

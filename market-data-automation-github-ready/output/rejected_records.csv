@@ -1,0 +1,3 @@
+date,project,unit_type,area_sqm,asking_price_vnd,source,validation_error
+2026-10-01,Project Beta,2BR,80.0,0,Public Listing D,asking price must be > 0
+2026-10-01,Project Gamma,2BR,,6900000000,Public Listing E,invalid area

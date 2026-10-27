@@ -1,0 +1,3 @@
+pandas>=2.0
+# Original private workflow also used Playwright.
+# playwright>=1.40
